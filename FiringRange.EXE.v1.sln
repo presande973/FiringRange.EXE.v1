@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiringRange.EXE.v1", "FiringRange.EXE.v1\FiringRange.EXE.v1.csproj", "{06CF43DD-5673-4400-B84E-AAF21ABF23AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CF43DD-5673-4400-B84E-AAF21ABF23AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CF43DD-5673-4400-B84E-AAF21ABF23AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CF43DD-5673-4400-B84E-AAF21ABF23AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CF43DD-5673-4400-B84E-AAF21ABF23AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E25E99-F2EC-42D0-B755-2891B2B77E06}
+	EndGlobalSection
+EndGlobal
